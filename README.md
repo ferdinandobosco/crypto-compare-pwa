@@ -56,3 +56,6 @@ Forwarding                    https://5c1e61ef.ngrok.io -> localhost:8080
 ``` 
 Example: http://5c1e61ef.ngrok.io                                                                    
 
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (Apache 2.0).
