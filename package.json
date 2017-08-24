@@ -1,9 +1,9 @@
 {
-  "name": "PWA",
-  "version": "1.0.0",
-  "description": "PWA",
-  "author": "Ferdinando Bosco",
-  "private": true,
+  "name": "crypto-compare-pwa",
+  "version": "0.0.1",
+  "description": "A progressive web application example, to compare the crypto money values.",
+  "author": "Ferdinando Bosco <ferdinando.bosco@gmail.com>",
+  "main": "/src/main.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
